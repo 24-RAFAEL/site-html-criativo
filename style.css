@@ -1,11 +1,11 @@
-{
+*{
    margin: 0;
    padding: 0;
 }
 
 
 .cabecalho {                  
-    background-color: #0752b4;
+    background-color: #0532fc;
     color: white;    
     display: flex;              
     justify-content: space-around;
@@ -24,4 +24,15 @@
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+
+.escola-imagem{
+    width: 25%;
+}
+
+
+.escola{
+    background-image: linear-gradient(#0532fc,#01d2f7);
+    color: white;
+    display: flex;
 }
