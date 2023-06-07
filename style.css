@@ -6,19 +6,15 @@
 
 .cabecalho {                  
     background-color: #0532fc;
-    color: white;    
+    color: white;
     display: flex;              
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
 }
     
-
-
-
-
 .cabecalho-imagem{
-    width: 20%;
+    width: 15%;
 }
 .cabecalho-lista-item{
     display: inline-block;
@@ -35,4 +31,9 @@
     background-image: linear-gradient(#0532fc,#01d2f7);
     color: white;
     display: flex;
+    justify-content: center;
+}
+
+.escola-div-conteudo{
+    width: 35%;
 }
