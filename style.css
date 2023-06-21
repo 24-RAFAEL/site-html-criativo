@@ -32,6 +32,8 @@
     color: white;
     display: flex;
     justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
 
 .escola-div-conteudo{
@@ -39,4 +41,12 @@
 }
 .escola-titulo{
     padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 120px;
+}
+
+.estudante-icone{
+    width: 24px;
 }
