@@ -56,7 +56,7 @@
 }
 
 .icone-imagem{
-    width: 5%;
+    width: 20%;
 }
 
 .estudante-titulo{
@@ -66,4 +66,14 @@
 .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
 }
